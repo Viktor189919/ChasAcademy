@@ -1,0 +1,54 @@
+body {
+    background-color: lightgray;
+}
+
+.trafficlight {
+    margin: 50px 600px;
+    padding: 7px;
+    background-color: white;
+    height: 614px;
+    width: 200px;
+}
+
+.trafficlight div {
+    width: 160px;
+    height: 160px;
+}
+
+.red {
+    background-color: red;
+    border: 20px solid darkred;
+    margin-bottom: 7px;
+}
+
+.yellow {
+    background-color: yellow;
+    border: 20px solid darkgoldenrod;
+    margin-bottom: 7px;
+}
+
+.green {
+    background-color: green;
+    border: 20px solid darkgreen
+}   
+
+.red-field {
+    background-color: lightcoral;
+    width: 160px;
+    max-height: 80px;
+    margin-top: 80px;
+}
+
+.green-field {
+    background-color: lightgreen;
+    max-height: 80px;
+    max-width: 80px;
+    margin-top: 80px;
+}
+
+.yellow-field {
+    background-color: lightyellow;
+    max-height: 80px;
+    max-width: 80px;
+    margin: 80px 80px;
+}
