@@ -39,17 +39,16 @@ body {
     margin-top: 80px;
 }
 
-.yellow-field {
-    background-color: lightyellow;
-    max-height: 80px;
-    max-width: 80px;
-    margin: 80px 80px;
-}
-
 .green-field {
-    background-color: lightgreen;
+    background-color:#92bf8b;
     max-height: 80px;
     max-width: 80px;
     margin-top: 80px;
 }
 
+.yellow-field {
+    background-color:#ffff9d;
+    max-height: 80px;
+    max-width: 80px;
+    margin: 80px 80px;
+}
